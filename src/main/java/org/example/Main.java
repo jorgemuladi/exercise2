@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Changes on my project");
 
         System.out.println("bug fixed for monster can't be damage");
+
+        System.out.println("added new type of weapon: katana & saber");
+
     }
 }
