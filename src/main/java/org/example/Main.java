@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Changes on my project");
 
+        System.out.println("bug fixed for monster can't be damage");
     }
 }
