@@ -28,7 +28,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        /*System.out.println("Enter fahrenheit: ");
+        System.out.println("Enter fahrenheit: ");
         double fahrenheit = scanner.nextDouble();
 
         double celcius = (fahrenheit - 32) * 5/9;
@@ -45,10 +45,10 @@ public class Main {
         double km = cm / 100000;
 
         System.out.printf("Distance in kilometer: " + km);
-        System.out.println();*/
+        System.out.println();
 
 
-        /*//Question 3
+        //Question 3
         System.out.println("Question3");
 
         System.out.println("Enter an integer: ");
@@ -74,7 +74,7 @@ public class Main {
 
         String result = RemoveString.removeFirstOccurrence(string, remove);
 
-        System.out.println("Result: " + result);*/
+        System.out.println("Result: " + result);
 
         //Question 5
         System.out.println("Enter words: ");
